@@ -1,0 +1,193 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ramabhadra&display=swap');
+
+img{
+    width: 300px;
+    background-color: chocolate;
+    border: 10px solid gray;
+    border-radius: 10px;
+}
+
+#srh1{
+    font-family: "Ramabhadra", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"nandakam";
+    src: url("./fonts/Nandakam\ Regular.otf");
+}
+#srh2{
+    font-family: "nandakam", "serif";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"ponnala";
+    src: url("./fonts/Ponnala\ Regular.otf");
+}
+#srh3{
+    font-family:"ponnala","serif";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"aabohi","serif";
+    src: url("./fonts/Aabohi\ Regular.otf");
+}
+#csk1{
+    font-family: "aabohi";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"agni","serif";
+    src: url("./fonts/AGNI\ Normal.otf");
+}
+#csk2{
+    font-family:"agni";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"anusha", "serif";
+    src: url("./fonts/Anusha\ Bold.otf");
+}
+#csk3{
+    font-family:"anusha";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"nudi", "serif";
+    src: url("./fonts/Nudi\ 01\ e\ Bold.ttf");
+}
+#rcb1{
+    font-family:"nudi";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"baraha", "serif";
+    src: url("./fonts/Baraha\ Kan\ Regular.ttf");
+}
+#rcb2{
+    font-family:"baraha";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"kai", "serif";
+    src: url("./fonts/Kai\ Baraha\ Regular.ttf");
+}
+#rcb3{
+    font-family:"kai";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"kruti", "serif";
+    src: url("./fonts/Kruti\ Dev\ 010\ Regular.ttf");
+}
+#dc1{
+    font-family:"kunti";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"kuntidev", "serif";
+    src: url("./fonts/Kruti\ Dev\ 095\ Regular.ttf");
+}
+#dc2{
+    font-family:"kuntidev";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"kunti70", "serif";
+    src: url("./fonts/Kruti\ Dev\ 070\ Regular.ttf");
+}
+#dc3{
+    font-family: "kunti70";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"anmol", "serif";
+    src: url(./fonts/AnmolUni.ttf);
+}
+#pk1{
+    font-family:"anmol";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:"amrneon", "serif";
+    src: url(./fonts/AmrNeon.ttf);
+}
+#pk2{
+    font-family:"amrneon";
+    font-weight: 400;
+    font-style: normal;
+}
+#RCBHeading{
+    background-color: brown;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+#SRHHeading{
+    background-color: orange;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+#CSKHeading{
+    background-color: yellow;
+    text-align: center;
+    border-radius: 20px;
+    color: red;
+}
+#PBKSHeading{
+    background-color: red;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+#DCHeading{
+    background-color: blue;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+#mainBODY{
+    background-color: aqua;
+}
+a{
+    text-decoration: none;
+   
+}
+
+#mainHeading{
+    background-color: blue;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+}
+
+.team{
+  display: inline-block; 
+}
